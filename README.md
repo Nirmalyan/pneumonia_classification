@@ -49,6 +49,18 @@ articulate it with the help of representations in the form of tables and figures
 
 ## Results 
 
+Confusion Matrix:
+
+![alt text](https://github.com/Nirmalyan/pneumonia_classification/blob/main/screenshots/confusion-matrix.png?raw=true)
+
+User Interface:
+
+![alt text](https://github.com/Nirmalyan/pneumonia_classification/blob/main/screenshots/ui-prediction.png?raw=True)
+
+Prediction:
+
+![alt text](https://github.com/Nirmalyan/pneumonia_classification/blob/main/screenshots/user-interface.png?raw=True)
+
 ## Conclusions 
 
 The project demonstrates how to classify positive and negative pneumonia data from
